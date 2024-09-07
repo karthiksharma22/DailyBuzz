@@ -15,4 +15,4 @@ To get started with DailyBuzz, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/YourUsername/DailyBuzz.git
+   git clone https://github.com/karthiksharma22/DailyBuzz.git
